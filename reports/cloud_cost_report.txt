@@ -1,0 +1,18 @@
+CLOUD COST ANALYZER REPORT
+============================
+
+Total Resources: 10
+Total Cloud Cost: Rs. 42,500.00
+
+RESOURCE DETAILS
+----------------------------
+Resource: EC2_01 | Service: EC2 | Region: Mumbai | Cost: Rs. 5000 | Utilization: 85%
+Resource: EC2_02 | Service: EC2 | Region: Mumbai | Cost: Rs. 4000 | Utilization: 10%
+Resource: S3_01 | Service: Storage | Region: Mumbai | Cost: Rs. 2000 | Utilization: 70%
+Resource: DB_01 | Service: Database | Region: Mumbai | Cost: Rs. 6000 | Utilization: 15%
+Resource: EC2_03 | Service: EC2 | Region: Pune | Cost: Rs. 3500 | Utilization: 45%
+Resource: EC2_04 | Service: EC2 | Region: Hyderabad | Cost: Rs. 7000 | Utilization: 8%
+Resource: S3_02 | Service: Storage | Region: Pune | Cost: Rs. 1500 | Utilization: 90%
+Resource: DB_02 | Service: Database | Region: Hyderabad | Cost: Rs. 8000 | Utilization: 20%
+Resource: EC2_05 | Service: EC2 | Region: Mumbai | Cost: Rs. 2500 | Utilization: 30%
+Resource: S3_03 | Service: Storage | Region: Delhi | Cost: Rs. 3000 | Utilization: 5%

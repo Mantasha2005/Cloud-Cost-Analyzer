@@ -1,0 +1,11 @@
+resource_id,service,region,cost,utilization
+EC2_01,EC2,Mumbai,5000,85
+EC2_02,EC2,Mumbai,4000,10
+S3_01,Storage,Mumbai,2000,70
+DB_01,Database,Mumbai,6000,15
+EC2_03,EC2,Pune,3500,45
+EC2_04,EC2,Hyderabad,7000,8
+S3_02,Storage,Pune,1500,90
+DB_02,Database,Hyderabad,8000,20
+EC2_05,EC2,Mumbai,2500,30
+S3_03,Storage,Delhi,3000,5
